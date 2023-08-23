@@ -9,7 +9,7 @@ steps:
   displayName: Get Secrets from Key Vault
   inputs:
     azureSubscription: 'demo'
-    KeyVaultName: 'keyvault019-jocasmen'
+    KeyVaultName: 'jocasmen-keyvault1'
     SecretsFilter: '*'
     RunAsPreJob: false
 
